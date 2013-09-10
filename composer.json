@@ -14,6 +14,7 @@
             "email": "manu@sprain.ch"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.2",
         "ext-curl": "*"
